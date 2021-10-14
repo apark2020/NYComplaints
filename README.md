@@ -1,1 +1,3 @@
 # NYComplaints
+
+Analyzed NYPD Historic [Complaint](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) and [Arrest](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u) datasets to observe the fluctuations in the number of complaints and arrests alleged against Black individuals in Manhattan Community District 9 over 8-week spans. Each 8-week span covers the 4 weeks preceding and the 4 weeks following major events related to crimes against Black victims (Trayvon Martin's death, George Zimmerman's trial,  shooting of Michael Brown, and the death of George Floyd).
